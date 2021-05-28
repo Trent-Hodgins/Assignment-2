@@ -10,7 +10,7 @@
   margin-right: auto;
 }
 
-#quote{
+#quote {
   color: midnightblue;
   font-size: 250%;
   text-align: center;
@@ -33,12 +33,7 @@
   background-color: gainsboro;
 }
 
-#bottom_part {
-color: midnightblue;
-font-size: 175%;
-}
-
-#link {
-color: midnightblue;
-font-size: 175%;
+.bottom {
+  color: midnightblue;
+  font-size: 175%;
 }

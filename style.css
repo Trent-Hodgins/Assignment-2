@@ -11,9 +11,9 @@
 }
 
 #quote{
-  color:midnightblue;
-  font-size:250%;
-  text-align:center;
+  color: midnightblue;
+  font-size: 250%;
+  text-align: center;
 }
 
 .year {
@@ -27,8 +27,18 @@
 .paragraph {
   color: midnightblue;
   margin-left: 50px;
-  font-size:150%;
+  font-size: 150%;
   font-family: arial, helvetica, sans-serif;
   padding: 40px;
   background-color: gainsboro;
+}
+
+#bottom_part {
+color: midnightblue;
+font-size: 175%;
+}
+
+#link {
+color: midnightblue;
+font-size: 175%;
 }

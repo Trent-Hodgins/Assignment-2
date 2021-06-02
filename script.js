@@ -14,14 +14,14 @@ function timeline () {
 function analytical () {
   answer = confirm('Analytical Engine')
   if (answer) {
-    window.location = 'https://assignment-3.trenthodgins.repl.co/index.html'
+    window.location = 'https://assignment-3.trenthodgins.repl.co/index2.html'
   }
 }
 
 function difference () {
   answer = confirm('Difference Engine')
   if (answer) {
-    window.location = 'https://assignment-3.trenthodgins.repl.co/index.html'
+    window.location = 'https://assignment-3.trenthodgins.repl.co/index3.html'
   }
 }
 
